@@ -1,10 +1,5 @@
 import type { Config } from 'tailwindcss';
 
-/**
- * TINTEL.ONLINE — Design Tokens
- * Fonte única de verdade para cor, tipografia e espaçamento.
- * NÃO alterar sem aprovação do briefing de design.
- */
 export default {
   content: ['./index.html', './src/**/*.{ts,tsx}'],
   theme: {
