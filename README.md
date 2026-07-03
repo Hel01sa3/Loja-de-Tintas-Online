@@ -175,9 +175,11 @@ A documentação completa do projeto contém:
 
 ---
 
-## 👥 Equipe
+## 👩‍💻 Autora
 
-Projeto desenvolvido individualmente por Heloísa Porto
+**Heloísa Porto**
+
+Sistemas de Informação
 ---
 
 ## 📄 Licença
